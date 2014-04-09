@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "pt";
+  font-weight: normal;
+  font-style: normal;
+  src: url('pt/pt.eot?1394301136') format("embedded-opentype");
+  src: url('pt/pt.eot?1394301136#iefix') format("embedded-opentype"), url('pt/pt.woff?1394301137') format("woff"), url('pt/pt.ttf?1394301137') format("truetype"), url('pt/pt.svg?1394301136') format("svg");
+}
+@font-face {
+  font-family: "pt";
+  font-weight: normal;
+  font-style: italic;
+  src: url('pt/pt-italic.eot?1394301136') format("embedded-opentype");
+  src: url('pt/pt-italic.eot?1394301136#iefix') format("embedded-opentype"), url('pt/pt-italic.woff?1394301136') format("woff"), url('pt/pt-italic.ttf?1394301136') format("truetype"), url('pt/pt-italic.svg?1394301136') format("svg");
+}
+@font-face {
+  font-family: "pt";
+  font-weight: bold;
+  font-style: normal;
+  src: url('pt/pt-bold.eot?1394301136') format("embedded-opentype");
+  src: url('pt/pt-bold.eot?1394301136#iefix') format("embedded-opentype"), url('pt/pt-bold.woff?1394301136') format("woff"), url('pt/pt-bold.ttf?1394301136') format("truetype"), url('pt/pt-bold.svg?1394301136') format("svg");
+}
+@font-face {
+  font-family: "pt";
+  font-weight: bold;
+  font-style: italic;
+  src: url('pt/pt-bolditalic.eot?1394301136') format("embedded-opentype");
+  src: url('pt/pt-bolditalic.eot?1394301136#iefix') format("embedded-opentype"), url('pt/pt-bolditalic.woff?1394301136') format("woff"), url('pt/pt-bolditalic.ttf?1394301136') format("truetype"), url('pt/pt-bolditalic.svg?1394301136') format("svg");
+}
